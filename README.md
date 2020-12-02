@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # biografiavuerouter
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# BiografiaconvueRouter
+>>>>>>> 4aa26655c27a958b71ee1fb8a28c364e716ad2d9
